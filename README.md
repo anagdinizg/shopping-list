@@ -8,7 +8,7 @@ Aplicativo simples de lista de compras desenvolvido com **React Native**, **Type
 
 - Adicionar itens à lista de compras
 - Marcar item como **pendente** ou **comprado**
-- 🗑Remover item da lista
+- Remover item da lista
 - Limpar a lista inteira
 - Salvamento local usando `AsyncStorage` (os dados permanecem entre sessões)
 
