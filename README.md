@@ -1,4 +1,4 @@
-# 🛒 Lista de Compras
+# Lista de Compras (Shopping list)
 
 Aplicativo simples de lista de compras desenvolvido com **React Native**, **TypeScript** e **Expo**. Permite adicionar itens, marcar como comprados, excluir individualmente ou apagar todos — tudo isso com persistência local via **AsyncStorage**.
 
